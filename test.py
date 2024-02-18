@@ -1,2 +1,3 @@
-print("yosi mizrahi")
-print("ashkelon")
+name="yosi mizrahi"
+print(name)
+
